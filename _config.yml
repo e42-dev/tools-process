@@ -1,0 +1,13 @@
+# Site settings
+title: Tools and Process
+tag_text: Tools and Process
+description: Demo on Tools used for Interactive Learning and Assessments
+url: "http://127.0.0.1:8080"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
