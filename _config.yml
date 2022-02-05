@@ -3,7 +3,7 @@ title: Tools and Process
 tag_text: Tools and Process
 description: Demo on Tools used for Interactive Learning and Assessments
 url: "http://127.0.0.1:8080"
-baseurl: ""
+baseurl: "https://e42.dev/tools-process"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
