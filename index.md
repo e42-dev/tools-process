@@ -27,7 +27,7 @@ Author view and student view side by side.
 <img src="images/codecheck_eg.jpg" alt="Fill in the blanks">
 
 You can play with live [fill in the blanks example](https://codecheck.io/files/2202040949a791qhz48fsfhvn8vxn0qwsju)
-and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksfp2) and [tracing the code example](https://e42.dev/trace/loop-walkthrough-1.xhtml).
+and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksfp2) and [tracing the code example](https://gitam-2021.github.io/trace/loop-walkthrough-1.xhtml).
 
 <hr>
 
