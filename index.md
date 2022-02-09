@@ -12,7 +12,8 @@ layout: default
 
 
 Here are the [C programs used for explaining](https://replit.com/@sbollapr) concepts in class. They are organized and shared in Replit for students to experiment and play with the code.
-
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3b-bKEpR9W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### Code Check
@@ -28,7 +29,8 @@ Author view and student view side by side.
 
 You can play with live [fill in the blanks example](https://codecheck.io/files/2202040949a791qhz48fsfhvn8vxn0qwsju)
 and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksfp2) and [tracing the code example](https://gitam-2021.github.io/trace/loop-walkthrough-1.xhtml).
-
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJNBoJqWw24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ### PADDY (Program A Day Initiative)
@@ -38,7 +40,13 @@ and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksf
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3_zaMF0YHP7dTBrVXAtGOtmD8f4wd2zQtysIA0NZrmgfuhRGY2T1aTdirHotSqLsXCGHh2Y6TszKV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="396" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-When we can make student practice daily, in a way we are creating a coding habit, which makes him better and better in coding through out his whole career.
+When we can make student practice daily, in a way we are creating a coding habit, which makes him better and better in coding through out his whole career.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxxeTnlB94Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### More tools and process
+There are many more tools are process, which can impact the students learning in a great way. Which can be used based on the situtations the faculty observers in the group of students.
+
 
 <hr>
 
