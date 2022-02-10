@@ -18,8 +18,6 @@ Here are the [C programs used for explaining](https://replit.com/@sbollapr) conc
     <iframe class="video" src="https://www.youtube.com/embed/3b-bKEpR9W8" title="GitHub, GitHub Classroom and Replit" allowfullscreen></iframe>
 </div>
 
-<hr>
-
 ### Code Check
 
 [Dr. M Kranthi Kiran](https://vspgitcse.gitam.edu/faculty/profile/500621) has explained how he has used [Code Check](https://codecheck.io/) to create different problems for students. Here is the presentation.
@@ -39,8 +37,6 @@ and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksf
     <iframe class="video" src="https://www.youtube.com/embed/dJNBoJqWw24" title="Code Check" allowfullscreen></iframe>
 </div>
 
-<hr>
-
 ### PADDY (Program A Day Initiative)
 > "Towards Building Coditude"
 
@@ -56,11 +52,6 @@ When we can make student practice daily, in a way we are creating a coding habit
     <iframe class="video" src="https://www.youtube.com/embed/gxxeTnlB94Q" title="PADDY (Program A Day Initiative)" allowfullscreen></iframe>
 </div>
 
-<hr>
-
 ### More tools and process
 There are many more tools are process, which can impact the students learning in a great way. Which can be used based on the situtations the faculty observers in the group of students.
-
-
-<hr>
 
