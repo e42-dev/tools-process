@@ -42,7 +42,9 @@ and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksf
 
 When we can make student practice daily, in a way we are creating a coding habit, which makes him better and better in coding through out his whole career.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxxeTnlB94Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/gxxeTnlB94Q" title="PADDY (Program A Day Initiative)" allowfullscreen></iframe>
+</div>
 
 ### More tools and process
 There are many more tools are process, which can impact the students learning in a great way. Which can be used based on the situtations the faculty observers in the group of students.
