@@ -38,8 +38,8 @@ and [tiles example](https://codecheck.io/files/21122706043bpx7hnbs6x003o0o19bksf
 
 [Dr. Jayasri Angara](https://vspgitcse.gitam.edu/Faculty) has explained about an process she is doing in her class to create a long term habit in students. Here is the presentation.
 
-<div class="gslides-container">
-    <iframe class="gslides" src="https://docs.google.com/presentation/d/e/2PACX-1vT3_zaMF0YHP7dTBrVXAtGOtmD8f4wd2zQtysIA0NZrmgfuhRGY2T1aTdirHotSqLsXCGHh2Y6TszKV/embed?start=true&loop=true&delayms=3000" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3_zaMF0YHP7dTBrVXAtGOtmD8f4wd2zQtysIA0NZrmgfuhRGY2T1aTdirHotSqLsXCGHh2Y6TszKV/embed?start=true&loop=true&delayms=3000&rm=minimal" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
 </div>
 
 When we can make student practice daily, in a way we are creating a coding habit, which makes him better and better in coding through out his whole career.  
