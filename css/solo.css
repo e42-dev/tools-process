@@ -268,11 +268,8 @@ pre > code {
 }
 
 /* Embed a YouTube video with 16:9 aspect ratio and full-width */
-/* https://www.ankursheel.com/blog/full-width-you-tube-video-embed */
 .video-container {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
+  aspect-ratio: 16/9;
 }
 
 .video {
@@ -286,11 +283,8 @@ pre > code {
 
 
 /* Embed a Google Slides with 16:9 aspect ratio and full-width */
-/* https://www.labnol.org/embed-google-slides-200615 */
 .responsive-google-slides {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
+  aspect-ratio: 16/9;
 }
 .responsive-google-slides iframe {
   position: absolute;
